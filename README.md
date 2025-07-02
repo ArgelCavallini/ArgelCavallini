@@ -1,3 +1,3 @@
-- 👋 Olá, eu sou o @ArgelCavallini, dev +- 5 anos.
+- 👋 Olá, eu sou o @ArgelCavallini, dev +/- 5 anos.
 - 👀 Atualmente trabalho com PHP/HTML/JS/CSS.
 - 📚 Estou estudando a linguagem de programação Python
